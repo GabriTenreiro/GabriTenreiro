@@ -50,15 +50,10 @@ Aunque disfruto del desarrollo, **lo que realmente me apasiona es el análisis d
 
 ## 📊 Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabriTenreiro&show_icons=true&theme=transparent" alt="GitHub stats" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GabriTenreiro&theme=radical&hide_border=true" />
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriTenreiro&layout=compact&theme=transparent" alt="Top languages" />
-</p>
-
-
 ---
 
 ## 📫 Contacto
