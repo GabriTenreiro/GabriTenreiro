@@ -51,11 +51,11 @@ Aunque disfruto del desarrollo, **lo que realmente me apasiona es el análisis d
 ## 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GabriTenreiro&show_icons=true&theme=transparent" alt="GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriTenreiro&layout=compact&theme=transparent" alt="Top languages" />
 </p>
 
 > **Recuerda reemplazar `TU_USUARIO` por tu nombre de usuario de GitHub.**
