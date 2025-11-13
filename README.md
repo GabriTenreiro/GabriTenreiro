@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Gabriel Tenreiro
 
-<!--
-**GabriTenreiro/GabriTenreiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy finalizando el **Curso de Especialización en Inteligencia Artificial y Big Data**, y también he estudiado **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Aunque disfruto del desarrollo, **lo que realmente me apasiona es el análisis de datos**, descubrir patrones, transformar información y crear soluciones basadas en datos reales.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Enfoque principal
+- 📊 **Análisis de datos**
+- 🤖 Inteligencia Artificial y Big Data
+- 🧩 Desarrollo backend y automatización
+- 🗄️ Gestión y modelado de datos
+
+---
+
+## 🛠️ Tecnologías que domino
+
+### **Lenguajes y frameworks**
+- Python  
+- Java con **Spring**, **Hibernate**, **JavaFX**
+
+### **Bases de datos**
+- MySQL  
+- MongoDB  
+
+### **Herramientas**
+- Git  
+- Docker  
+
+#### Versión visual (iconos):
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,mongodb,git,docker,hibernate,idea" />
+</p>
+
+---
+
+## 🎓 Formación
+
+### 🎓 Desarrollo de Aplicaciones Multiplataforma (DAM)  
+**Fomento Ocupacional**  
+📍 Prácticas realizadas en **Acore, Coruña**
+
+### 🎓 Curso de Especialización Dual e Intensivo en IA y Big Data  
+**IES Fernando Wirtz Suárez**
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent" alt="Top languages" />
+</p>
+
+> **Recuerda reemplazar `TU_USUARIO` por tu nombre de usuario de GitHub.**
+
+---
+
+## 📫 Contacto
+
+- **LinkedIn:** [https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com)
+
+*(Pásame tu enlace real y lo dejo ya configurado.)*
+
+---
+
+## 🚀 Sobre mí
+- Me encanta analizar datos y entender cómo convertirlos en conocimiento útil  
+- Disfruto creando proyectos que combinen desarrollo y datos  
+- Siempre aprendiendo algo nuevo, especialmente en IA, backend y automatización  
+
+---
+
+
