@@ -48,21 +48,10 @@ Aunque disfruto del desarrollo, **lo que realmente me apasiona es el análisis d
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GabriTenreiro&theme=radical&hide_border=true" />
-</p>
----
-
 ## 📫 Contacto
 
 - **LinkedIn:**  
   https://www.linkedin.com/in/gabriel-tenreiro-calvo-808a8b29b/
-
-
-
 
 ---
 
