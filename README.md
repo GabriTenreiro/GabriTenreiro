@@ -36,13 +36,13 @@ Aunque disfruto del desarrollo, **lo que realmente me apasiona es el análisis d
 
 ## 🎓 Formación
 
-### 🎓 Curso de Especialización Dual e Intensivo en IA y Big Data 
+### 📊 Curso de Especialización Dual e Intensivo en IA y Big Data 
  **IES Fernando Wirtz Suárez**
  📍 Prácticas realizadas en **NTTDATA, Coruña**
 
 
 
-### 🎓 Desarrollo de Aplicaciones Multiplataforma (DAM)  
+### 💻 Desarrollo de Aplicaciones Multiplataforma (DAM)  
  **Fomento Ocupacional** 
 📍 Prácticas realizadas en **Acore, Coruña**
 
