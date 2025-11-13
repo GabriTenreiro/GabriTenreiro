@@ -58,15 +58,16 @@ Aunque disfruto del desarrollo, **lo que realmente me apasiona es el análisis d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabriTenreiro&layout=compact&theme=transparent" alt="Top languages" />
 </p>
 
-> **Recuerda reemplazar `TU_USUARIO` por tu nombre de usuario de GitHub.**
 
 ---
 
 ## 📫 Contacto
 
-- **LinkedIn:** [https://www.linkedin.com/in/TU-LINKEDIN](https://www.linkedin.com)
+- **LinkedIn:**  
+  https://www.linkedin.com/in/gabriel-tenreiro-calvo-808a8b29b/
 
-*(Pásame tu enlace real y lo dejo ya configurado.)*
+
+
 
 ---
 
